@@ -1,6 +1,6 @@
 ### Olá, sou o Alex 👋
 
-🖥️ - Estudando Desenvolvimento Back-End Java
+🖥️ - Desenvolvedor Back-End Java
 
 <div align="center">
   <a href="https://github.com/Alex-Brito-91">
