@@ -1,6 +1,6 @@
 ### Olá, sou o Alex 👋
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="42" width="42" /> Desenvolvedor Back-End Java 
+Desenvolvedor Back-End Java 
 
 <div align="center"><br>
   <a href="https://github.com/Alex-Brito-91">
