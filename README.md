@@ -2,9 +2,12 @@
 
 Desenvolvedor ABAP 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alex-Brito-91&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex-Brito-91&theme=transparent&layout=compact&langs_count=8&card_width=320&" />
-</a>
+<div align="center"><br>
+  <a href="https://github.com/Alex-Brito-91">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Alex-Brito-91&show_icons=true&theme=transparent"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Brito-91&layout=compact&theme=transparent"/>
+</div>
+<div><br>
+  <a href = "mailto:alex.teixeira.brito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alextbrito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
